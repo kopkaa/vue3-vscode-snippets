@@ -60,6 +60,7 @@ These snippets were made to speed up Vue 3 development. With it you can write bo
 | `vtrans-group` | Transition group component        |
 | `vrlink`       | Router link                       |
 | `vrlink-param` | Router link with param            |
+| `vsuspense` 	 | Suspense wrapper with fallback content |
 
 ### Script
 
